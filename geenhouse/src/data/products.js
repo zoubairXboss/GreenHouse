@@ -1,0 +1,17 @@
+export const products = [
+  { id: 1, name: "Organic Honey", category: "Food", image: "/products/honey.jpg", sellerId: 1, sellerName: "Atlas Cooperative", description: "Pure Moroccan organic honey" },
+  { id: 2, name: "Argan Oil", category: "Health", image: "/products/argan-oil.jpg", sellerId: 1, sellerName: "Atlas Cooperative", description: "Cold-pressed argan oil for skin & hair" },
+  { id: 3, name: "Saffron", category: "Spices", image: "/products/saffron.jpg", sellerId: 2, sellerName: "Taliouine Spices", description: "Premium Moroccan saffron threads" },
+  { id: 4, name: "Olive Oil", category: "Food", image: "/products/olive-oil.jpg", sellerId: 3, sellerName: "Moroccan Olive Farm", description: "Extra virgin olive oil" },
+  { id: 5, name: "Mint Tea", category: "Drank", image: "/products/mint-tea.jpg", sellerId: 2, sellerName: "Taliouine Spices", description: "Traditional Moroccan mint tea" },
+  { id: 6, name: "Herbal Supplement", category: "Supplements", image: "/products/herbal-supplement.jpg", sellerId: 4, sellerName: "Nature Health", description: "Natural herbal supplement for immunity" },
+  { id: 7, name: "Cumin", category: "Spices", image: "/products/cumin.jpg", sellerId: 3, sellerName: "Moroccan Olive Farm", description: "Aromatic Moroccan cumin seeds" },
+  { id: 8, name: "Almonds", category: "Food", image: "/products/almonds.jpg", sellerId: 5, sellerName: "Atlas Nuts", description: "Raw organic almonds" },
+  { id: 9, name: "Rose Water", category: "Health", image: "/products/rose-water.jpg", sellerId: 4, sellerName: "Nature Health", description: "Pure rose water for skin care" },
+  { id: 10, name: "Turmeric Powder", category: "Spices", image: "/products/turmeric.jpg", sellerId: 2, sellerName: "Taliouine Spices", description: "Organic turmeric powder" },
+  { id: 11, name: "Date Syrup", category: "Food", image: "/products/date-syrup.jpg", sellerId: 1, sellerName: "Atlas Cooperative", description: "Natural date syrup from Morocco" },
+  { id: 12, name: "Chamomile Tea", category: "Drank", image: "/products/chamomile-tea.jpg", sellerId: 5, sellerName: "Atlas Nuts", description: "Organic chamomile tea" },
+  { id: 13, name: "Ginger Powder", category: "Spices", image: "/products/ginger.jpg", sellerId: 3, sellerName: "Moroccan Olive Farm", description: "Dried ginger powder" },
+  { id: 14, name: "Protein Powder", category: "Supplements", image: "/products/protein.jpg", sellerId: 4, sellerName: "Nature Health", description: "Plant-based protein powder" },
+  { id: 15, name: "Cinnamon Sticks", category: "Spices", image: "/products/cinnamon.jpg", sellerId: 2, sellerName: "Taliouine Spices", description: "Ceylon cinnamon sticks" },
+];
